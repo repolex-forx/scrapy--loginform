@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "loginform",
+  "versions": [
+    {
+      "commit": "e61facef4927a581a94bf4aebdd0609b4c1317c9",
+      "tag": "",
+      "parsed_at": "2026-10-12T06:18:33.152657+00:00"
+    }
+  ]
+}
